@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/svemula/.dotnet/store/|arch|/|tfm|",
+      "/Users/svemula/.nuget/packages"
+    ]
+  }
+}
